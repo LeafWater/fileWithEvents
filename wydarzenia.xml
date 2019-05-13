@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<wydarzenia>
+  <miesiac indeks="1" >
+    <w miasto="Cała Polska" data="04.01."> Maksimum roju Kwadrantydy </w>
+    <w miasto="Katowice" data="13.01."> "3 Śląski Festiwal Nauki" </w>
+    <w miasto="Cała Polska" data="21.01."> Superksiężyc, czyli pełnia występująca w perygeum </w>
+    <w miasto="Warszawa" data="24.01."> "SpaceHUB: Mars" </w>
+  </miesiac>
+  <miesiac indeks="2" >
+    <w miasto="Cała Polska" data="02.02."> Zakrycie Saturna przez Księżyc </w>
+    <w miasto="Warszawa" data="07.02."> "Poza heliosferę: misja Voyagerów" </w>
+    <w miasto="Kraków" data="08.02."> "SpaceTech Made in Poland" </w>
+    <w miasto="Strasbourg" data="23.02."> "SpaceUP – International Space University" </w>
+    <w miasto="Warszawa" data="27.02."> "SpaceHUB: Prawo kosmiczne" </w>
+  </miesiac>
+  <miesiac indeks="3" >
+    <w miasto="Wrocław" data="04.03."> "Gwiezdne korale – asterosejsmologia zespołowa gwiazd w gromadach otwartych" </w>
+    <w miasto="Warszawa" data="08.03."> "Galaktyka kobiet #3" </w>
+    <w miasto="Wrocław" data="11.03."> Warsztaty z solarigrafii</w>
+    <w miasto="Warszawa" data="27.03."> "SpaceHUB: Księżyc" </w>
+  </miesiac>
+  <miesiac indeks="4" >
+    <w miasto="Świat" data="04.04."> Drugie zbliżenie sondy Parker do Słońca </w>
+    <w miasto="Warszawa" data="06.04."> Seminarium – "Kierunek Mars" </w>
+    <w miasto="Warszawa" data="11.04."> "Inżynieria ryzyk w polskim sektorze kosmicznym" </w>
+    <w miasto="Warszawa" data="25.04."> "European SpaceTech Transfer Forum 2019" </w>
+    <w miasto="Warszawa" data="25.04."> "SpaceHUB: kosmiczne eksperymenty studenckie" </w>
+    <w miasto="Toruń" data="28.04."> "19. Toruński Festiwal Nauki" </w>
+  </miesiac>
+	<miesiac indeks="5" >
+    <w miasto="Cała Polska" data="06.05."> Maksimum roju Eta Akwarydy </w>
+		<w miasto="Toruń" data="08.05."> "Astronomiczne i prawne aspekty górnictwa kosmicznego" </w>
+		<w miasto="Warszawa" data="12.05."> "Pulsary: gwiazdy najbardziej niezwykłe, najbardziej tajemnicze – CAMK" </w>
+		<w miasto="Kraków" data="14.05."> "Kosmogadka: Planety, roboty i astronauci" </w>
+    <w miasto="Kraków" data="16.05."> "II Konferencja Górnictwa Kosmicznego – AGH" </w>
+    <w miasto="Toruń" data="12.05."> "Pulsary: gwiazdy najbardziej niezwykłe, najbardziej tajemnicze – CAMK" </w>
+    <w miasto="Toruń" data="22.05."> "Początek ery kosmicznej 3D" </w>
+    <w miasto="Kraków" data="24.05."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+    <w miasto="Warszawa" data="27.05."> "Portret Wszechświata w krzywym zwierciadle – CAMK" </w>
+	</miesiac>
+	<miesiac indeks="6" >
+		<w miasto="Cała Polska" data="01.06."> Koniunkcja Księżyc i Wenus</w>
+    <w miasto="Toruń" data="12.06."> "Początek ery kosmicznej 3D" </w>
+		<w miasto="Cała Polska" data="16.06."> Koniunkcja Księżyc i Jowisz</w>
+		<w miasto="Wrocław" data="18.06."> "Space Adventure (pod patronatem NASA)" </w>
+    <w miasto="Kraków" data="21.12."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+    <w miasto="Warszawa" data="22.06."> "Gateway to Space" </w>
+    <w miasto="Toruń" data="25.06."> "Początek ery kosmicznej 3D" </w>
+	</miesiac>
+	<miesiac indeks="7" >
+    <w miasto="Kraków" data="03.07."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+    <w miasto="Świat" data="13.07."> Koniunkcja Księżyc i Jowisz </w>
+    <w miasto="Świat" data="05.07."> Ziemia najdalej Słońca (Aphelium) </w>
+		<w miasto="Europa" data="16.07."> Częściowe zaćmienie Księżyca</w>
+		<w miasto="Świat" data="28.07."> Maksimum meteorów z roju Południowych delta Akwarydów </w>
+	</miesiac>
+  <miesiac indeks="8" >
+    <w miasto="Kraków" data="30.05."> Zlot </w>
+    <w miasto="Cała Polska" data="12.08."> Maksimum roju Perseidy </w>
+    <w miasto="Świat" data="24.08."> Koniunkcja Wenus i Mars </w>
+    <w miasto="Kraków" data="30.08."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+    
+  </miesiac>
+  <miesiac indeks="9" >
+    <w miasto="Świat" data="01.09."> Trzecie zbliżenie sondy Parker do Słońca </w>
+    <w miasto="Wrocław" data="10.09."> "Space Adventure (pod patronatem NASA)" </w>
+    <w miasto="Lublin" data="14.09."> Lubelski Festiwal Nauki </w>
+    <w miasto="Kraków" data="20.09."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+    <w miasto="Świat" data="28.09."> Koniunkcja Księżyc i Mars </w>
+  </miesiac>
+  <miesiac indeks="10" >
+    <w miasto="Kraków" data="30.05."> Zlot </w>
+    <w miasto="Kraków" data="11.10."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+    <w miasto="Cała Polska" data="21.10."> Maksimum roju Orionidy  </w>
+    <w miasto="Wrocław" data="20.10."> Dolnośląski Festiwal Nauki </w>
+    <w miasto="Kraków" data="27.12."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+    <w miasto="Świat" data="28.10."> Uran w opozycji </w>
+  </miesiac>
+  <miesiac indeks="11" >
+    <w miasto="Świat" data="02.11."> Koniunkcja Księżyc i Saturn </w>
+    <w miasto="Cała Polska" data="06.11."> Maksimum roju Taurydów  </w>
+    <w miasto="Cała Polska" data="17.11."> Maksimum roju Leonidów  </w>
+    <w miasto="Kraków" data="19.12."> "Wieczór z gwiazdami; 100 godzin astronomii" </w>
+  </miesiac>
+  <miesiac indeks="12" >
+    <w miasto="Świat" data="11.12."> Koniunkcja Wenus i Saturn </w>
+    <w miasto="Cała Polska" data="13.12."> Maksimum roju Geminidów  </w>
+    <w miasto="Cała Polska" data="22.12."> Maksimum roju Ursydów  </w>
+    <w miasto="Świat" data="26.12."> Koniunkcja Księżyc i Jowisz </w>
+    <w miasto="Kraków" data="30.05."> Zlot </w>
+  </miesiac>
+</wydarzenia>
+
